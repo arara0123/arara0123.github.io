@@ -1,0 +1,21 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "updated": "2021-10-17T06:19:33Z",
+  "id": "claat-template-d1017",
+  "duration": 35,
+  "title": "タイトル  d1017 ara",
+  "authors": "Arakis",
+  "summary": "CLaaT を利用したコンテンツ作成のテンプレートとして利用可能なファイルです。",
+  "source": "1TZPEZoa6RKUIIfLDxZr-CmnSgbQO2e8AGbN_msMZCwA",
+  "theme": "100-basic",
+  "status": [
+    "published"
+  ],
+  "category": [
+    "100-Basic"
+  ],
+  "tags": [],
+  "url": "claat-template-d1017"
+}
